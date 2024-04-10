@@ -1,7 +1,7 @@
 {
   "name": "umi-cmv3-ui-inofficial",
   "version": "0.3.0",
-  "packageManager": "pnpm",
+  "packageManager": "pnpm@8.15.6",
   "private": true,
   "scripts": {
     "dev": "next dev",
